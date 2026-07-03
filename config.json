@@ -1,1 +1,51 @@
-rcaTxpqRu56QeKpqvUkc666gz89BdVP//beUTwB0xFMvBsUxOqfQds2fvmqtlxkMb2LDSzhl667CpSx0h8fbl4jXvzim73hUzW7setWiCTrrPFgFC7t085fyAY2fCIOYiVeVwuIqs8scy8TrsCw+CZEqwJWVF45j2KCS/Wut8okCVXS6exAvYkBqrnaXhsUDxv6EW4HFcUHoF5cMXKoEeOVtNQKOMFmKHVln4o9lj/Gz+LZLBnxaDeyyRCKFgTl7jO4W7TSblm8IfIDO7st8lZJWo4GLj394NEfm6T/MvLV4uJWilRqW9t8F3Q3ESmRfv4h5qI8r190VT8r7kild9eaKnXGNt2m4YPmg0znXpIo7Duf+9n+KqWKiQptm07r01c55PEPMKKw6B9wc55v0wdbB+rGvLvAVOHnGHQ5xjfcKGTp0lcLSLjeJCRfrHII/np3Xv4BdC5OGKAPkWKqRgWowyrauMMDAzVziinPnF4mfZwRRpiz5v8iCLZ3x5h4Ew60yMD7KToqfbyu24Lww3ZhzGCGc5EnSRCPhaiT7dSw219AoX8UVfCiPPwGUWpR2DIAzhMIlf12bJGbywao+6GEBe9lszFKtiuU6yx8uJZeI8WEdTh9WW4HgjNUAYTA9yv5yXKufansNca8/QQUEwXHsLLKy6u6lK36vaWHf7i2T3hY/0XjTthNUnG1hALmUEQRy1chqqAB9wz4uTjuedGR3uok1AZMr254lyn4BqBG2AYB0hBAc/cDo36CgtEJdqDr+rf8wD2xyEL8uuR/rKNdfv+d8zqTB9GS2ZJW/3CXsClVK2E3EgT9gVNH0jLYzaCXJVvfChdba1CULldMi/mZDSnGjCmV1eUvtZvVSumh/LoLzQl8ewyGXUOiNKCiLqqcMMQVhkM4WQ65b+7AX0z+X7wc5Yfe9ugwkHo7shbFtxv4qw7JIiXc3S2Swxqr0cwDhb9HQhxH1l8gmTMavGVdczivx4Ap/WEUWPV1A9yjlNuCaD8f12NvchH0zzFRoutQtQJMiid5TXludBpXDt+WlxwJIbE52Y1sx8uGgIbHXjFMW677T12OfV0LchcecoqCE/FrXxqJIU85W3hXnBTnMTgN4dw1RfWVBIyrWpuR+UdDXH1dJG3+CkG+CQ7ZPMvcW4Px2dQrS+6pNfYkCqNdqcplocvRvac9aOe4bFbgc5kZ0rxGAzzXhnNjCv7oAT+AXYfiJQzN3xmTEH8mJoJyFyePz+T620or1ljIs25+WcsjRSrED/nS8/qweIyeyfsRP3YiRx5oRM7/5a+937pMsIDVgXt/4bvhGj8qZdxmsM05/QcW0P7yt+HZk4LZTIoOhNFZVeWzCsRC38CB+E/BoF4EdwPzl7qXR9BDGlaG3RvHnXNrdYSML7+4Y2y/NC53HM/ApxMRt11rDi+5R0a0EIH40wRrz5mSZ07HvsT0oT7dKoMATQ6OM65pN4FMT4S95an9UuyAXQiC6jcRpYccLg3NdsY1OGmecyLdgEo7FqnsONn0a3HH71LcfCEZgSHo/OHd5aKVFDxLr9z7gXXWLeTrQON2osuTH0y6XsXaWtNyBFobsf2Z/aku0arUJ4ZbI4R4XcjXM11Kp8PrnKMtdpT+505muhpJrmC08ukt2HHzmwWv1Olv4Y3ooUVnLeWBFSTtH7bEMV5xWh6Gmr+c5QT4dvLoJ/mDEiqx1n3f+jDgYRXv5YhhWV8SzBM1h9EN9ErJmCRt6iW0eHfrtleZ/OXITaYFuw79xGfA2CQTLYbJSkFuBkK4JtMdGPGBsvILZs7D+sXqHfzCYINA8JLW7pVUxHIxAYontuy2bZb2ywNfomjOjPDlBahMP9asCIFkFxGx+byLl05ShSjF7vJuhUgEMK+pAsN3xgnoehglZMNbU2s0VFexL7VI8kyMe7MRddLWS0fl4tYSprrlFFQDA+4I6++YNsJB67jIVoAA=
+ {
+  "Version": "1.1",
+  "ReleaseNotes": "අලුත් Free Servers එකතු කළා! වේගවත් සම්බන්ධතාවයක් සඳහා දැන්ම අප්ඩේට් කරන්න.",
+  "Servers": [
+    {
+      "Name": "🇸🇬 Singapore Free 01",
+      "ServerIP": "128.199.x.x",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "ProxyIP": "128.199.x.x",
+      "ProxyPort": "8080",
+      "ServerUser": "ඔයාගේ_SSH_User",
+      "ServerPass": "ඔයාගේ_SSH_Pass"
+    },
+    {
+      "Name": "🇺🇸 USA Free 02",
+      "ServerIP": "167.x.x.x",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "ProxyIP": "167.x.x.x",
+      "ProxyPort": "8080",
+      "ServerUser": "user2",
+      "ServerPass": "pass2"
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "GTM No Load (Websocket)",
+      "isSSL": true,
+      "wsPayload": true,
+      "remoteHost": false,
+      "SlowDns": false,
+      "SNI": "m.facebook.com",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "chaveKey": "",
+      "serverNameKey": "",
+      "dnsKey": ""
+    },
+    {
+      "Name": "Mobitel Free Social",
+      "isSSL": false,
+      "wsPayload": false,
+      "remoteHost": true,
+      "SlowDns": false,
+      "SNI": "",
+      "Payload": "CONNECT [host_port] [protocol][crlf]Host: viber.com[crlf][crlf]",
+      "chaveKey": "",
+      "serverNameKey": "",
+      "dnsKey": ""
+    }
+  ]
