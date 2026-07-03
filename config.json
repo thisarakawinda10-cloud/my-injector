@@ -1,1 +1,52 @@
-
+{
+  "Version": "1.1",
+  "ReleaseNotes": "අලුත් Free Servers එකතු කළා! වේගවත් සම්බන්ධතාවයක් සඳහා දැන්ම අප්ඩේට් කරන්න.",
+  "Servers": [
+    {
+      "Name": "🇸🇬 Singapore Free 01",
+      "ServerIP": "128.199.x.x",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "ProxyIP": "128.199.x.x",
+      "ProxyPort": "8080",
+      "ServerUser": "ඔයාගේ_SSH_User",
+      "ServerPass": "ඔයාගේ_SSH_Pass"
+    },
+    {
+      "Name": "🇺🇸 USA Free 02",
+      "ServerIP": "167.x.x.x",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "ProxyIP": "167.x.x.x",
+      "ProxyPort": "8080",
+      "ServerUser": "user2",
+      "ServerPass": "pass2"
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "GTM No Load (Websocket)",
+      "isSSL": true,
+      "wsPayload": true,
+      "remoteHost": false,
+      "SlowDns": false,
+      "SNI": "m.facebook.com",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+      "chaveKey": "",
+      "serverNameKey": "",
+      "dnsKey": ""
+    },
+    {
+      "Name": "Mobitel Free Social",
+      "isSSL": false,
+      "wsPayload": false,
+      "remoteHost": true,
+      "SlowDns": false,
+      "SNI": "",
+      "Payload": "CONNECT [host_port] [protocol][crlf]Host: viber.com[crlf][crlf]",
+      "chaveKey": "",
+      "serverNameKey": "",
+      "dnsKey": ""
+    }
+  ]
+}
